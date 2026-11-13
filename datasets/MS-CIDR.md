@@ -7,7 +7,7 @@ conventional MRI from large MS clinical trials [[1]](#r1).
 
 ## Resource totals
 
-| Participants | Clinical visits | MRI visits | Trial groups with MRI |
+| Participants | Clinical visits | MRI scans | Trial groups with MRI |
 |---:|---:|---:|---:|
 | 13,074 | 199,108 | 51,978 | 14 of 14 |
 
@@ -15,7 +15,7 @@ conventional MRI from large MS clinical trials [[1]](#r1).
 
 Trial registrations link to ClinicalTrials.gov and publications link to PubMed, as listed by the Alliance [[1]](#r1).
 
-| Trial group | Subtype | Sponsor | ClinicalTrials.gov | PubMed | Participants | Clinical visits | MRI visits |
+| Trial group | Subtype | Sponsor | ClinicalTrials.gov | PubMed | Participants | Clinical visits | MRI scans |
 |---|---|---|---|---|---:|---:|---:|
 | ADVANCE / ATTAIN | RRMS | Biogen | [NCT00906399](https://clinicaltrials.gov/study/NCT00906399) | [24794721](https://pubmed.ncbi.nlm.nih.gov/24794721/); [30181778](https://pubmed.ncbi.nlm.nih.gov/30181778/) | 1,512 | 26,719 | 8,719 |
 | CARE-MS I | RRMS | Genzyme, a Sanofi company | [NCT00530348](https://clinicaltrials.gov/study/NCT00530348) | [23122652](https://pubmed.ncbi.nlm.nih.gov/23122652/) | 581 | 6,538 | 1,685 |
