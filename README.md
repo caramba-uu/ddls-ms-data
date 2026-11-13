@@ -16,7 +16,7 @@ A printable summary of this repository is available as [`MS_data_resources_overv
 |---|---|---|---|---|---|
 | [**SMSReg**](datasets/SMSReg.md) ([website](https://neuroreg.se/)) | National clinical registry [[1]](#r1) [[2]](#r2) | Sweden | 24,441 people; 228,192 visits (2025 extract) [[8]](#r8) | Clinical | Main development data for Aims 1 and 2 |
 | [**MSBase**](datasets/MSBase.md) ([website](https://www.msbase.org/)) | International clinical registry [[3]](#r3) | 37 countries after curation | 56,578 people; 542,632 visits (after curation) [[9]](#r9) | Clinical | External evaluation only, reported by country |
-| [**MS-CIDR**](datasets/MS-CIDR.md) ([website](https://www.progressivemsalliance.org/ms-clinical-and-imaging-data-resource/)) | Pooled clinical-trial resource [[6]](#r6) | 14 trial groups | 13,074 participants; 199,108 clinical visits; 51,978 MRI visits | Clinical and MRI | External clinical test (Aims 1 and 2); MRI and fusion development (Aims 3 and 4) |
+| [**MS-CIDR**](datasets/MS-CIDR.md) ([website](https://www.progressivemsalliance.org/ms-clinical-and-imaging-data-resource/)) | Pooled clinical-trial resource [[6]](#r6) | 14 trial groups | 13,074 participants; 199,108 clinical visits; 51,978 MRI scans | Clinical and MRI | External clinical test (Aims 1 and 2); MRI and fusion development (Aims 3 and 4) |
 | [**RIFUND-MS / RIDOSE-MS**](datasets/RIFUND-RIDOSE.md) | Swedish phase 3 clinical trials [[4]](#r4) [[5]](#r5) | Sweden | ~325 participants; ~2,200 visits; six-year study period | Clinical | External clinical evaluation (Aims 1 and 2) |
 
 ## Disease subtypes available
@@ -87,7 +87,7 @@ flowchart LR
 
 <a id="r7"></a>7. Sreenivasan AP, Vaivade A, Noui Y, Khoonsari PE, Burman J, Spjuth O, Kultima K. Conformal prediction enables disease course prediction and allows individualized diagnostic uncertainty in multiple sclerosis. *NPJ Digit Med.* 2025;8:224. [doi:10.1038/s41746-025-01616-z](https://doi.org/10.1038/s41746-025-01616-z) · [PubMed 40275055](https://pubmed.ncbi.nlm.nih.gov/40275055/)
 
-<a id="r8"></a>8. Sreenivasan AP, Noui Y, Erngren I, Spjuth O, Burman J, Kultima K. Prospective validation of an uncertainty-aware machine learning model for secondary progressive multiple sclerosis classification. Manuscript.
+<a id="r8"></a>8. Sreenivasan AP, Noui Y, Erngren I, Spjuth O, Burman J, Kultima K. Prospective validation of an uncertainty-aware machine learning model for secondary progressive multiple sclerosis classification. medRxiv preprint, 2026 (under revision). [doi:10.64898/2026.10.07.26364939](https://doi.org/10.64898/2026.10.07.26364939)
 
 <a id="r9"></a>9. Sreenivasan AP, et al. HARMONISE: an uncertainty-aware framework for harmonising disease-course predictions across international clinical registries. Manuscript.
 

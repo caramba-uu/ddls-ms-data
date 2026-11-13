@@ -59,6 +59,6 @@ direct identifiers and the researchers have no access to the re-identification k
 
 <a id="r3"></a>3. Sreenivasan AP, et al. Conformal prediction enables disease course prediction and allows individualized diagnostic uncertainty in multiple sclerosis. *NPJ Digit Med.* 2025;8:224. [doi:10.1038/s41746-025-01616-z](https://doi.org/10.1038/s41746-025-01616-z) · [PubMed 40275055](https://pubmed.ncbi.nlm.nih.gov/40275055/) · Tool: [MSP-Tracker](https://msp-tracker.serve.scilifelab.se/)
 
-<a id="r4"></a>4. Sreenivasan AP, Noui Y, Erngren I, Spjuth O, Burman J, Kultima K. Prospective validation of an uncertainty-aware machine learning model for secondary progressive multiple sclerosis classification. Manuscript.
+<a id="r4"></a>4. Sreenivasan AP, Noui Y, Erngren I, Spjuth O, Burman J, Kultima K. Prospective validation of an uncertainty-aware machine learning model for secondary progressive multiple sclerosis classification. medRxiv preprint, 2026 (under revision). [doi:10.64898/2026.10.07.26364939](https://doi.org/10.64898/2026.10.07.26364939)
 
 <a id="r5"></a>5. Sreenivasan AP, et al. HARMONISE: an uncertainty-aware framework for harmonising disease-course predictions across international clinical registries. Manuscript.

@@ -49,7 +49,7 @@ SPI2 includes 414 SPMS and 228 PPMS participants. Extension studies are grouped 
 | Point | Explanation |
 |---|---|
 | Scope of counts | Totals describe the whole resource as reported by the Alliance (April 2026 data access guidelines). The dataset approved for a project may be a subset. |
-| MRI visits | Count imaging time points, not unique participants or image sequences |
+| MRI scans | Counted per imaging time point, not per participant or per image sequence |
 | Subtype | Classification at trial entry; not an observed RRMS-to-SPMS transition label at later visits |
 
 ## Planned variables
