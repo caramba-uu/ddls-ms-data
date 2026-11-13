@@ -40,16 +40,6 @@ PPMS data are used only for self-supervised pretraining, and only from SMSReg an
 | MS-CIDR | External clinical test | External clinical test | MRI and fusion development | MRI and fusion development (MS-CIDR partitions from Aim 3) |
 | RIFUND-MS / RIDOSE-MS | External clinical evaluation | External evaluation where event counts permit | Clinical pretraining, only after the Aim 1 and 2 evaluations | Clinical pretraining, only after the Aim 1 and 2 evaluations |
 
-```mermaid
-flowchart LR
-    S[SMSReg<br/>clinical, Sweden] -->|development| C[Clinical transformer<br/>Aims 1 and 2]
-    P[PPMS trajectories<br/>SMSReg and MS-CIDR] -->|self-supervised pretraining| C
-    C -->|external test| M[MSBase<br/>by country]
-    C -->|external test| R[RIFUND-MS / RIDOSE-MS]
-    C -->|external test| X[MS-CIDR clinical]
-    X2[MS-CIDR<br/>MRI and clinical] -->|development| V[MRI vision transformer<br/>and late fusion<br/>Aims 3 and 4]
-```
-
 ## Shared principles across datasets
 
 | Principle | Implementation |
